@@ -1,0 +1,26 @@
+#ignorar todo esto
+build/
+nbproject/
+test/
+# archivos
+build.xml
+manifest.mf
+*.from
+
+# archivos compilados
+*.class
+# historial de archivos
+*.log
+#paquetes
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+*.settings/
+bin/
+*.project
+*.classpath
